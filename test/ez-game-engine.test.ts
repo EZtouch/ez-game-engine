@@ -1,4 +1,4 @@
-import EZGameEngine from '../src/ez-game-engine'
+import { EZGameEngine } from '../src/ez-game-engine'
 
 /**
  * EZGameEngine test
