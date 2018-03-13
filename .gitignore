@@ -10,6 +10,7 @@ compiled
 .awcache
 .rpt2_cache
 /tools
+/docs
 
 # Created by https://www.gitignore.io/api/node,linux,macos,windows,notepadpp,sublimetext,visualstudio,jetbrains+all,visualstudiocode
 
