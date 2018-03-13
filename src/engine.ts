@@ -1,6 +1,8 @@
 export class Engine {
-  public startTime: string
+  public startTime: number
   constructor() {
-    this.startTime = Date.now().toString()
+    this.startTime = Date.now()
   }
 }
+
+exports.Engine = Engine
