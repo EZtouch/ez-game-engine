@@ -21,8 +21,6 @@
     "strictNullChecks": true,
     "noImplicitThis": true,
     "alwaysStrict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
     "pretty": true,
     "removeComments": true,
     "preserveConstEnums": true,
